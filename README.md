@@ -16,3 +16,5 @@ Moro em Belém, Pará. Gosto de boa literatura, de um bom café ☕ e de aprende
 * <a href="https://github.com/andersonfpcorrea/andersonfpcorrea.github.io">Portfolio</a> - Clone de um template Webflow
 
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonfpcorrea&count_private=true)
+
+[![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=andersonfpcorrea)
