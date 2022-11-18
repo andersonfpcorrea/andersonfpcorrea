@@ -11,8 +11,8 @@ Moro em Belém, Pará. Gosto de boa literatura, de um bom café ☕ e de aprende
 
 ### Meus projetos favoritos
 * <a href="https://github.com/andersonfpcorrea/recipes-app">Forkify</a> - App de receitas
-* <a href="https://github.com/andersonfpcorrea/orange-evolution-front">Orange Evolution</a> App de aulas
-* <a href="https://github.com/andersonfpcorrea/orange-evolution-back">Orange Evolution API</a> API REST do Orange Evolution
+* <a href="https://github.com/andersonfpcorrea/orange-evolution-front">Orange Evolution</a> - App de aulas
+* <a href="https://github.com/andersonfpcorrea/orange-evolution-back">Orange Evolution API</a> - API REST do Orange Evolution
 * <a href="https://github.com/andersonfpcorrea/todo-list-react-aws">Full-stack Todo</a> - Lista de tarefas
 
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonfpcorrea&count_private=true)
