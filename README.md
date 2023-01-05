@@ -11,7 +11,7 @@ Moro em Belém, Pará. Gosto de boa literatura, de um bom café ☕ e de aprende
 
 ### Meus projetos favoritos
 * <a href="https://github.com/andersonfpcorrea/recipes-app">Forkify</a> - App de receitas
-* <a href="https://github.com/andersonfpcorrea/route-easy">Desafio Route Easy</a> - App fullstack (MERN) com manipulação de mapas
+* <a href="https://github.com/andersonfpcorrea/route-easy">Desafio RoutEasy</a> - App fullstack (MERN) com manipulação de mapas
 * <a href="https://github.com/andersonfpcorrea/ng-cash">NG Cash</a> - App de banco full-stack dockerizado
 * <a href="https://github.com/andersonfpcorrea/orange-evolution-front">Orange Evolution</a> - App de aulas
 * <a href="https://github.com/andersonfpcorrea/orange-evolution-back">Orange Evolution API</a> - API REST do Orange Evolution
