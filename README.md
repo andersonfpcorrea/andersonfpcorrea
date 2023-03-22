@@ -20,4 +20,4 @@ Moro em Belém, Pará. Gosto de boa literatura, de um bom café ☕ e de aprende
 
 ![Anderson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonfpcorrea&count_private=true&include_all_commits=true)
 
-![Anderson's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfpcorrea&show_icons=true&langs_count=10) 
+![Anderson's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfpcorrea&layout=compact&show_icons=true&langs_count=10) 
