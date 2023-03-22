@@ -18,7 +18,7 @@ Moro em Belém, Pará. Gosto de boa literatura, de um bom café ☕ e de aprende
 * <a href="https://github.com/andersonfpcorrea/todo-list-react-aws">Full-stack Todo</a> - Lista de tarefas
 * <a href="https://github.com/andersonfpcorrea/estrutura_de_dados_e_algoritmos_com_javascript">Estrutura de dados e algoritmos em JavaScript</a> - Implementações, exercícios e casos de uso das principais estruturas de dados
 
-![Anderson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonfpcorrea&count_private=true)
+![Anderson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonfpcorrea&count_private=true&include_all_commits=true)
 
-![Anderson's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonfpcorrea)
+![Anderson's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonfpcorrea&langs_count=10)
 
