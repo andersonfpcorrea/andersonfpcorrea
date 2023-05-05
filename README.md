@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Anderson</a></h1>
-<h3 align="center">A passionate full stack developer from Belém, Brazil 🇧🇷</h3>
+<h3 align="center">A passionate full stack developer from Belém, Brazil <img src="https://flagpedia.net/data/flags/w580/br.webp" style="width:18px" /> </h3>
 
 ### Contact me
 <a href="mailto:andersonfpcorrea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/andersonfpcorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://cv-andersonfpcorrea.pages.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
