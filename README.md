@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full stack developer with 2 years of experience building web applications. I specialize in TypeScript, and currently leaning Python for data analysis. I'm a quick learner and enjoy keeping up with the latest technologies.
+I'm a full stack developer with 2 years of experience building web applications. I have experience with JavaScript, TypeScript and Python. I'm a quick learner and enjoy keeping up with the latest technologies.
 
 ## Contact Me
 
