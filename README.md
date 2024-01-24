@@ -1,11 +1,5 @@
 # Anderson Corrêa - Full Stack Developer
 
-## About Me
-
-I'm a full-stack developer. I have experience with TypeScript and Python -- currently learning Go. I'm a quick learner and enjoy keeping up with the latest technologies.
-
-## Contact Me
-
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/andersonfpcorrea/) if you'd like to chat about any opportunities or collaborations.
 
 ![Anderson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonfpcorrea&count_private=true&include_all_commits=true&theme=transparent&bg_color=00000000) 
